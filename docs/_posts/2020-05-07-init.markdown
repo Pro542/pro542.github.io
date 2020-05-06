@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "boop"
+date:   2020-05-07 00:33:48 +0400
+---
+This is the first post of the blog. Hoping to write anything interesting I find about dev here.
